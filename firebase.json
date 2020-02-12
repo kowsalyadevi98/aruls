@@ -1,0 +1,17 @@
+{
+  "hosting": {
+  "site": "arulsdiabetes",
+    "public": "public",
+    "cleanUrls": true,
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+
+
+
+
+
